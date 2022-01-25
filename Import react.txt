@@ -1,0 +1,22 @@
+	- UI
+ @mui/material
+ @emotion/react
+ @emotion/styled
+ @mui/icons-material
+
+	- Routing
+ react-router-dom
+
+	-Store
+ redux
+ redux-thunk
+ react-redux
+
+ - Formulaire
+ react-hook-form
+ yup
+ @hookform/resolvers
+
+	- Tools
+ classnames (fonctionnement équivalent au [NgClass]
+ axios	(requete ajax)
